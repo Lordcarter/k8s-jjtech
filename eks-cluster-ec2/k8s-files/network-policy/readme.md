@@ -154,3 +154,4 @@ kubectl exec -it -n application <name of pod a> -- <curl ip of pod b>
 ```bash
 helm uninstall calico
 ```
+

@@ -20,7 +20,6 @@ kubectl get nodes --show-labels
 ```
 or 
 
-
 ```bash
 kubectl describe nodes <node name>
 ```

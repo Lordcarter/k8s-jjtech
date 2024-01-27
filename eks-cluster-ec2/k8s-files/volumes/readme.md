@@ -2,7 +2,6 @@
 ## To create an Amazon Elastic File System (EFS) cluster and configure it for use with Amazon Elastic Kubernetes Service (EKS), you need to follow these steps:
 
 ### Set up an Amazon EFS File System:
-
 - Ensure your eks cluster is up and running
 - Go to the AWS Management Console and navigate to the Amazon EFS service.
 Click on "Create file system" and configure the settings for your EFS file system, such as the **name** and the **vpc** in which your cluster is configred. Note down the File System ID (e.g., fs-12345678), as you will need it later.

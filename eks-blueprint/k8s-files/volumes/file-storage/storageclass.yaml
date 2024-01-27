@@ -7,5 +7,5 @@ reclaimPolicy: Retain
 allowVolumeExpansion: true
 parameters:
   provisioningMode: efs-ap
-  fileSystemId: fs-038f2701aa38f262f
+  fileSystemId: fs-000a0fcea91a1409b
     

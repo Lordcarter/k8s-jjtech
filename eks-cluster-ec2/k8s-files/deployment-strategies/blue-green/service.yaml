@@ -10,7 +10,5 @@ spec:
   - name: http
     port: 80
     targetPort: 8080
-
-  # Note here that we match both the app and the version
   selector:
     app: green-app # change selector here to always switch between deployment types i.e blue or green
